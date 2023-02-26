@@ -1,7 +1,7 @@
-* Shigoto: Very Simple Job Managing System
+# Shigoto: Very Simple Job Managing System
 wip
 
-** How to Use
+## How to Use
 
 ```
 curl http://***/postjob --include  --header "Content-Type: application/json" --request "POST"  --data '{"output": "path to logfile","command": "command"}'
